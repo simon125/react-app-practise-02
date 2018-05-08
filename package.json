@@ -2,7 +2,7 @@
   "name": "to-do-list-react-onemoretime",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://myname.github.io/myapp",
+  "homepage": "https://simon125.github.io/react-app-practise-02/",
   "dependencies": {
     "material-ui": "^0.20.0",
     "react": "^16.3.2",
